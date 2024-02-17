@@ -1,5 +1,3 @@
-# OOP_DESIGN_PATTERNS_PROJECT
-
 # Online Food Delivery System
 This project is a group effort aimed at developing an online food delivery service where users can conveniently order from various restaurants. The software solution incorporates several design patterns to ensure efficiency, flexibility, and scalability.
 
