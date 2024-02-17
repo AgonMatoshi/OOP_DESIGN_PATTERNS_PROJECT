@@ -1,0 +1,14 @@
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\bin\Debug\net8.0\OnlineFoodDelivery.exe
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\bin\Debug\net8.0\OnlineFoodDelivery.deps.json
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\bin\Debug\net8.0\OnlineFoodDelivery.runtimeconfig.json
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\bin\Debug\net8.0\OnlineFoodDelivery.dll
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\bin\Debug\net8.0\OnlineFoodDelivery.pdb
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.AssemblyInfo.cs
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.dll
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\refint\OnlineFoodDelivery.dll
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.pdb
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\OnlineFoodDelivery.genruntimeconfig.cache
+C:\Users\Saiti\RiderProjects\OnlineFoodDelivery\OnlineFoodDelivery\obj\Debug\net8.0\ref\OnlineFoodDelivery.dll
